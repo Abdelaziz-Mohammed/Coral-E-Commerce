@@ -1,0 +1,162 @@
+[
+    { 
+        "id": 1,
+        "title": "Adicolor Classics Joggers",
+        "category": "Dress",
+        "price": 63.85,
+        "image": "product-1.png",
+        "status": "Best Sellers"
+    },
+    {
+        "id": 2,
+        "title": "Nike Sportswear Futura Luxe",
+        "category": "Bag",
+        "price": 130.00,
+        "image": "product-2.png",
+        "status": "Best Sellers"
+    },
+    { 
+        "id": 3,
+        "title": "Geometric Print Scarf",
+        "category": "Dress",
+        "price": 53.00,
+        "image": "product-3.png",
+        "status": "Best Sellers"
+    },
+    { 
+        "id": 4,
+        "title": "Yellow Reserved Hoodie",
+        "category": "Hoody",
+        "price": 364.00,
+        "image": "product-4.png",
+        "status": "New Arriaval"
+    },
+    { 
+        "id": 5,
+        "title": "Basic Dress Green",
+        "category": "Dress",
+        "price": 236.00,
+        "image": "product-5.png",
+        "status": "New Arriaval"
+    },
+    { 
+        "id": 6,
+        "title": "Nike Air Zoom Pegasus",
+        "category": "Shoe",
+        "price": 198.00,
+        "image": "product-6.png",
+        "status": "Best Sellers"
+    },
+    { 
+        "id": 7,
+        "title": "Nike Repel Miler",
+        "category": "Hoody",
+        "price": 120.00,
+        "image": "product-7.png",
+        "status": "Best Sellers"
+    },
+    { 
+        "id": 8,
+        "title": "Nike Sportswear Futura Luxe",
+        "category": "Glasses",
+        "price": 160.00,
+        "image": "product-8.png",
+        "status": "New Arriaval"
+    },
+    { 
+        "id": 9,
+        "title": "Leather Shoulder Bag",
+        "category": "Bag",
+        "price": 210.00,
+        "image": "product-9.png",
+        "status": "New Arrival"
+    },
+    { 
+        "id": 10,
+        "title": "Round Vintage Sunglasses",
+        "category": "Glasses",
+        "price": 75.50,
+        "image": "product-10.png",
+        "status": "Best Sellers"
+    },
+    { 
+        "id": 11,
+        "title": "Men's Casual Sneakers",
+        "category": "Shoe",
+        "price": 145.00,
+        "image": "product-11.png",
+        "status": "Best Sellers"
+    },
+    { 
+        "id": 12,
+        "title": "Classic Leather Belt",
+        "category": "Accessories",
+        "price": 85.00,
+        "image": "product-12.png",
+        "status": "New Arrival"
+    },
+    { 
+        "id": 13,
+        "title": "Oversized Hoodie Beige",
+        "category": "Hoody",
+        "price": 290.00,
+        "image": "product-13.png",
+        "status": "New Arrival"
+    },
+    { 
+        "id": 14,
+        "title": "Sports Duffel Bag",
+        "category": "Bag",
+        "price": 175.00,
+        "image": "product-14.png",
+        "status": "New Arrival"
+    },
+    { 
+        "id": 15,
+        "title": "Aviator Polarized Glasses",
+        "category": "Glasses",
+        "price": 110.00,
+        "image": "product-15.png",
+        "status": "New Arrival"
+    },
+    { 
+        "id": 16,
+        "title": "Adidas Ultraboost 22",
+        "category": "Shoe",
+        "price": 220.00,
+        "image": "product-16.png",
+        "status": "New Arrival"
+    },
+    { 
+        "id": 17,
+        "title": "Canvas Tote Bag",
+        "category": "Bag",
+        "price": 95.00,
+        "image": "product-17.png",
+        "status": "Best Sellers"
+    },
+    { 
+        "id": 18,
+        "title": "Slim Fit Black Dress",
+        "category": "Dress",
+        "price": 199.99,
+        "image": "product-18.png",
+        "status": "New Arrival"
+    },
+    { 
+        "id": 19,
+        "title": "Premium Leather Wallet",
+        "category": "Accessories",
+        "price": 50.00,
+        "image": "product-19.png",
+        "status": "Best Sellers"
+    },
+    { 
+        "id": 20,
+        "title": "White Casual Sneakers",
+        "category": "Shoe",
+        "price": 155.00,
+        "image": "product-20.png",
+        "status": "New Arrival"
+    }
+]
