@@ -28,4 +28,9 @@ body {
     border-radius: 2px;
 }
 
-
+.bg-collections {
+    background-image: url('/Coral-E-Commerce/images/collections-bg.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}  
