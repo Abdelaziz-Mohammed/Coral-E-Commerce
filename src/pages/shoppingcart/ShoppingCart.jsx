@@ -24,7 +24,7 @@ function ShoppingCart() {
                     className="flex flex-col justify-center items-start gap-5 sm:flex-row sm:items-center sm:justify-between sm:gap-3 py-4 mx-3 border-b border-neutral-300">
                     <div className="flex items-center justify-start gap-2">
                       <Link to={`/shop/${product.id}`}>
-                        <img src={`/React-E-Commerce/images/products/${product.image}`} alt=''
+                        <img src={`/Coral-E-Commerce/images/products/${product.image}`} alt=''
                           className="w-12 h-12 rounded shadow-lg border border-neutral-200 hover:scale-[120%] ease-linear duration-200"/>
                       </Link>
                       <span className="text-sm">{product.category}</span>

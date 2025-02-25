@@ -48,7 +48,7 @@ const router = createBrowserRouter(
       ]
     }
   ],
-  { basename: '/React-E-Commerce/' }
+  { basename: '/Coral-E-Commerce/' }
 );
 
 createRoot(document.getElementById('root')).render(

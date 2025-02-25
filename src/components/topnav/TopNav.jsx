@@ -12,7 +12,7 @@ function TopNav() {
         <div className="flex items-center justify-between py-4 px-3 border-b border-b-neutral-300">
             {/* Logo */}
             <Link to='/'>
-                <img src="/React-E-Commerce/logo.svg" alt="logo" />
+                <img src="/Coral-E-Commerce/logo.svg" alt="logo" />
             </Link>
             {/* Account + Shopping Cart */}
             <div className="flex items-center gap-4 text-black text-xl">

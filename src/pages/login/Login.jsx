@@ -8,7 +8,7 @@ function Login() {
       <div className="container mx-auto px-6 py-12 h-[100vh] flex items-center justify-center">
         <div className='bg-white py-16 px-10 flex-1 max-w-[500px] rounded-lg shadow-md flex flex-col gap-5'>
           <Link to='/'>
-            <img src="/React-E-Commerce/logo.svg" alt="logo" />  
+            <img src="/Coral-E-Commerce/logo.svg" alt="logo" />  
           </Link>
           <p className='text-neutral-500'>Wellcome back !!!</p>
           <h2 className='text-3xl font-bold tracking-wider text-orange-500'>

@@ -7,5 +7,5 @@ export default defineConfig({
   server: {
     port: 3000,
   },
-  base: '/React-E-Commerce/', // Base path for GitHub Pages
+  base: '/Coral-E-Commerce/', // Base path for GitHub Pages
 })

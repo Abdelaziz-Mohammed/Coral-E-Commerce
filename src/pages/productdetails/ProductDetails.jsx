@@ -13,7 +13,7 @@ function ProductDetails() {
   useEffect(() => {
     async function getProduct() {
       try {
-        const response = await ((await fetch('/React-E-Commerce/products.json')).json());
+        const response = await ((await fetch('/Coral-E-Commerce/products.json')).json());
         const p = response.find(item => item.id === parseInt(id));
         if (p) {
           setProduct(p);
@@ -32,7 +32,7 @@ function ProductDetails() {
     <section className="bg-neutral-50 flex items-center min-h-[84.3vh]">
       <div className="container mx-auto p-3">
         <div className="w-fit p-3 mx-auto bg-white flex gap-x-5 flex-col sm:flex-row md:gap-x-10 border border-primaryBg rounded-lg shadow-sm">
-            <img src={`/React-E-Commerce/images/products/${product.image}`} alt={product.title}
+            <img src={`/Coral-E-Commerce/images/products/${product.image}`} alt={product.title}
                 className="w-[280px] rounded-lg shadow-md hover:shadow-lg hover:-rotate-1 hover:scale-[103%] ease-linear duration-100" />
             <div className="text-black text-sm sm:text-base font-semibold sm:flex flex-col justify-evenly">
               <h2 className="mt-5 sm:text-lg">{product.title}</h2>

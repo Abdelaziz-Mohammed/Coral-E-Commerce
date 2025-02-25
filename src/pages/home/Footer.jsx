@@ -11,7 +11,7 @@ function Footer() {
           <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-5 sm:gap-8'>
             <div className='h-[180px] md:h-auto flex flex-col gap-2 sm:gap-5'>
               <Link to='/'>
-                <img src="/React-E-Commerce/logo.svg" alt="logo" />
+                <img src="/Coral-E-Commerce/logo.svg" alt="logo" />
               </Link>
               <div className='text-sm max-w-[220px] tracking-wide'>
                 <p className='font-semibold text-xs mb-1 text-neutral-500'>Thank you for visiting our store!</p>
