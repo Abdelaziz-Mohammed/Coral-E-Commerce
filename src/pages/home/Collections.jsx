@@ -1,7 +1,7 @@
 
 function Collections() {
   return (
-    <section className="bg-[url('images/collections-bg.png')] bg-center bg-no-repeat my-12 bg-cover">
+    <section className="bg-[url('/Coral-E-Commerce/images/collections-bg.png')] bg-center bg-no-repeat my-12 bg-cover">
       <div className="container mx-auto px-6 py-12 h-[400px] flex items-center justify-end">
         <div className="text-white w-fit sm:w-1/2">
           <img src="images/zara-logo.png" alt="ZARA"

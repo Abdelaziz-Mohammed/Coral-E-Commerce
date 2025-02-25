@@ -83,7 +83,7 @@ npm run dev
 ### 4️⃣ Open Your Browser and Navigate to `http://localhost:3000/Coral-E-Commerce/`
 
 ## 🌍 Deployment
-The project is deployed using GitHub pages. You can access it [here](https://abdelaziz-mohammed.github.io/Coral-E-Commerce/).
+The project is deployed using GitHub Pages. You can access it [here](https://abdelaziz-mohammed.github.io/Coral-E-Commerce/).
 
 ## 👨‍💻 Author
 **Eng. Abdelaziz Mohamed**
